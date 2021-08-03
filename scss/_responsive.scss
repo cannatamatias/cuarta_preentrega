@@ -1,0 +1,29 @@
+@media(max-width: 575px) {
+
+    .izquierdaempresa {
+        background: #f8f8f8;
+        height: 20px;
+        width: 10px;
+    } 
+
+    .derechaempresa {
+        background: url(../imagenes_empresa/empresa_imagen.jpg);
+        height: 20px;
+        width: 10px;
+    }
+
+    body {
+        font-size: xx-large
+    }
+
+
+}
+
+@media(min-width: 576px) and (max-width: 767px) {
+
+}
+
+@media(min-width:768px) and (max-width: 991px) {
+
+}
+
